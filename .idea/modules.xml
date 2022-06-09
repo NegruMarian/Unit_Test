@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../API testing/.idea/API testing.iml" filepath="$PROJECT_DIR$/../API testing/.idea/API testing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Python/.idea/Python.iml" filepath="$PROJECT_DIR$/../Python/.idea/Python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Unit_Test.iml" filepath="$PROJECT_DIR$/.idea/Unit_Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../final_project_Tdd_BDD/.idea/tema11_Tdd_BDD.iml" filepath="$PROJECT_DIR$/../final_project_Tdd_BDD/.idea/tema11_Tdd_BDD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../testare automata/.idea/testare automata.iml" filepath="$PROJECT_DIR$/../testare automata/.idea/testare automata.iml" />
+    </modules>
+  </component>
+</project>
